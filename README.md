@@ -2,21 +2,25 @@
 
 Here is a collection of useful workflows that I have written for the Alfred v2 Mac OS X application.
 
-Most of these workflows are triggered via hotkey presses.
+Each of these workflows were designed to be triggered with a hotkey. I have included my personal hotkey bindings below.
 
 ## List of Workflows
 
 ### Internet
 
 * Search selected text in Google — `⌘G`
-* I'm Feeling Lucky (on selected text) — `⌥⌘G`
+* I'm Feeling Lucky search (on selected text) — `⌥⌘G`
 * Open selected text as URL — `⌥⌘O`
+* Duplicate current Chrome tab — `⌥⇧D`
+* Duplicate current Firefox tab — `⌥⇧D`
+* Open current Chrome tab in Firefox — `⌥⇧F`
+* Open current Chrome tab in Safari — `⌥⇧S`
 
 ### Productivity
 
 * Show Terminal (open/show/hide window) — `⌥.`
 * Show nvALT (open/show/hide window) — `⌥Q`
-* Toggle Wunderlist (open/show/hide window) — `⌥A`
+* Show Wunderlist (open/show/hide window) — `⌥A`
 
 ### Tools
 
