@@ -20,7 +20,9 @@ Most of these workflows are triggered via hotkey presses.
 
 ### Tools
 
-* Toggle Caffeine (open/turn on or off) [`⌥W`]
+* Toggle Caffeine (open/toggle on and off) [`⌥W`]
+* Lock computer [`⌃⌥⌘L`]
+* Sleep computer  [`⌃⌥⌘S`]
 
 ## Credits
 
