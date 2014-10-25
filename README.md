@@ -8,8 +8,8 @@ Most of these workflows are triggered via hotkey presses.
 
 ### Internet
 
-* Search selected text in Google [`⌘G`]
-* I'm Feeling Lucky (on selected text) [`⌥⌘G`]
+* Search selected text in Google – `⌘G`
+* I'm Feeling Lucky (on selected text) — `⌥⌘G`
 * Open selected text as URL [`⌥⌘O`]
 
 ### Productivity
