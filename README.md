@@ -8,15 +8,19 @@ Most of these workflows are triggered via hotkey presses.
 
 ### Internet
 
-* Search selected text in Google [⌘G]
-* I'm Feeling Lucky (on selected text) [⌥⌘G]
-* Open selected text as URL [⌥⌘O]
+* Search selected text in Google [`⌘G`]
+* I'm Feeling Lucky (on selected text) [`⌥⌘G`]
+* Open selected text as URL [`⌥⌘O`]
 
 ### Productivity
 
-* Toggle Terminal (open/hide app) [⌥.]
-* Toggle nvALT (open/hide app) [⌥Q]
-* Toggle Wunderlist (open/hide app) [⌥A]
+* Show Terminal (open/show/hide window) [`⌥.`]
+* Show nvALT (open/show/hide window) [`⌥Q`]
+* Toggle Wunderlist (open/show/hide window) [`⌥A`]
+
+### Tools
+
+* Toggle Caffeine (open/turn on or off) [`⌥W`]
 
 ## Credits
 
