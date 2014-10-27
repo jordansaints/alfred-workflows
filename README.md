@@ -9,7 +9,7 @@ Each of these workflows were designed to be triggered with a hotkey. I have incl
 ### Internet
 
 * Search selected text in Google — `⌘G`
-* I'm Feeling Lucky search (on selected text) — `⌥⌘G`
+* I'm Feeling Lucky search on selected text — `⌥⌘G`
 * Open selected text as URL — `⌥⌘O`
 * Duplicate current Chrome tab — `⌥⇧D`
 * Duplicate current Firefox tab — `⌥⇧D`
